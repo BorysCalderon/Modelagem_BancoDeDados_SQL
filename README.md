@@ -15,6 +15,5 @@ Demonstrar a proficiência em **design de banco de dados relacional** e a capaci
 ## 💻 Tecnologias Utilizadas
 - **Linguagem:** SQL (Structured Query Language)
 - **Ferramentas:** Git / GitHub
-
 ***
 Autor: **Borys Ever Tito Calderon** | Estudante de Sistemas de Informação - 5º Semestre
