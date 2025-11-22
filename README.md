@@ -17,4 +17,4 @@ Demonstrar a proficiência em **design de banco de dados relacional** e a capaci
 - **Ferramentas:** Git / GitHub
 
 ---
-**Autor:** Borys Calderon
+Feito por Borys Ever Tito Calderon | Estudante de Sistemas de Informação - 5º Semestre
