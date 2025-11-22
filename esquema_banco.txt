@@ -1,0 +1,21 @@
+# MODELAGEM DE BANCO DE DADOS RELACIONAL: SISTEMA DE LOJA ONLINE (E-COMMERCE)
+
+-- O projeto visa modelar a estrutura de um banco de dados para uma plataforma de vendas, demonstrando a aplicação de chaves primárias e relacionamentos.
+
+-- Tabela: Clientes
+-- PK (Chave Primária): id_cliente
+-- Colunas: nome, email, data_cadastro
+
+-- Tabela: Produtos
+-- PK: id_produto
+-- Colunas: nome_produto, preco, estoque, categoria
+
+-- Tabela: Pedidos (Carrinho de Compras)
+-- PK: id_pedido
+-- FK (Chave Estrangeira): id_cliente (Relacionamento com Clientes)
+-- Colunas: data_pedido, status, valor_total
+
+-- Tabela: Itens_Pedido (O que foi comprado)
+-- FK: id_pedido (Relacionamento com Pedidos)
+-- FK: id_produto (Relacionamento com Produtos)
+-- Colunas: quantidade, preco_unitario
